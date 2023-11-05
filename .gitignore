@@ -1,0 +1,9 @@
+env
+__pycache__
+train_triplets.txt
+unique_tracks.txt
+song_to_metadata.joblib
+song_list.joblib
+user_to_song.joblib
+metadata.csv
+train.csv
